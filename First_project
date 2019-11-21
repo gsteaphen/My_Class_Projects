@@ -1,0 +1,1 @@
+ rsync -zvr /var/opt/Schema /root/temp/schem.bkp
